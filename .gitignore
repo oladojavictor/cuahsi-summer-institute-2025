@@ -195,4 +195,3 @@ cython_debug/
 /data
 /figures
 /notebooks
-data/usgs_to_comid.csv
